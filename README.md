@@ -42,21 +42,6 @@ This is a single-page application (SPA) built with React and TypeScript that dis
 
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Getting Started
  ## Prerequisites
 - **Node**: Ensure you have Node.js installed on your machine.
@@ -94,13 +79,20 @@ This will generate the production build in the build directory.
 
 ### Deployment
 
+```plaintext
 This application can be easily deployed on Netlify. Follow these steps:
 
 1.Create a new site on Netlify.
+
 2.Connect your GitHub repository to Netlify.
+
 3.Set the build command to npm run build and the publish directory to build.
+
 4.Deploy the site.
+
 For detailed instructions, refer to the section How to Deploy on Netlify.
+
+```
 
 ### Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
@@ -110,6 +102,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgements
 1.Unsplash API for providing free access to high-quality images.
+
 2.Netlify for seamless deployment and hosting.
 
 
