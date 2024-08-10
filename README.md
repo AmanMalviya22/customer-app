@@ -65,7 +65,7 @@ This is a single-page application (SPA) built with React and TypeScript that dis
 
 ### Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/customer-app.git
+   git clone https://github.com/AmanMalviya22/customer-app.git
    cd customer-app
 
 
