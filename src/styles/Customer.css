@@ -1,0 +1,12 @@
+.customer-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    background-color: white; /* Default background */
+  }
+  
+  .customer-item.selected {
+    background-color: grey; /* Highlight selected customer */
+  }
+  
