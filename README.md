@@ -64,6 +64,7 @@ This is a single-page application (SPA) built with React and TypeScript that dis
 
 
 ### Installation
+```plaintext
 1. Clone the repository:
    git clone https://github.com/AmanMalviya22/customer-app.git
    cd customer-app
@@ -89,15 +90,16 @@ npm run build
 yarn build
 This will generate the production build in the build directory.
 
-
+```
 
 ### Deployment
+
 This application can be easily deployed on Netlify. Follow these steps:
 
-Create a new site on Netlify.
-Connect your GitHub repository to Netlify.
-Set the build command to npm run build and the publish directory to build.
-Deploy the site.
+1.Create a new site on Netlify.
+2.Connect your GitHub repository to Netlify.
+3.Set the build command to npm run build and the publish directory to build.
+4.Deploy the site.
 For detailed instructions, refer to the section How to Deploy on Netlify.
 
 ### Contributing
@@ -107,8 +109,8 @@ Contributions are welcome! Please fork this repository and submit a pull request
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
-Unsplash API for providing free access to high-quality images.
-Netlify for seamless deployment and hosting.
+1.Unsplash API for providing free access to high-quality images.
+2.Netlify for seamless deployment and hosting.
 
 
 
